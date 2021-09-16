@@ -4,7 +4,7 @@
 
 > The project is designed to display the phrase 'Hello world' in the color red
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 My goal here is to master all of the tools and best practices about git and github flow.
 
@@ -17,7 +17,7 @@ My goal here is to master all of the tools and best practices about git and gith
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/alvinlouis29/MIcroverse-Hello-world/Project-setup/index.html)
 
 
 👤 **Alvin Louis**

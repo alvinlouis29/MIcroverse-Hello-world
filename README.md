@@ -1,59 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello-World
 
-> One paragraph statement about the project.
+> The project is designed to display the phrase 'Hello world' in the color red
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+My goal here is to master all of the tools and best practices about git and github flow.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+
+- Html
+- Css
+- Git 
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+👤 **Alvin Louis**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/alvinlouis29)
+- Twitter: [@twitterhandle](https://twitter.com/louisssegawa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alvin-louis-632026183/)
 
 ## 🤝 Contributing
 
@@ -64,12 +35,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
